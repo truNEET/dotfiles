@@ -1,0 +1,2 @@
+$HOME/.config/bspwm/wallpaper &
+
